@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3315
     wikipedia: http://en.wikipedia.org/wiki/Edward_Hutton_%28writer%29
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16477#Florence-and-Northern-Tuscany-with-GenoaAnd-Sixteen-Other-Illustrations-Second-Edition
 gutenberg_issued: '2005-08-08'
 gutenberg_type: Text
 identifiers:
